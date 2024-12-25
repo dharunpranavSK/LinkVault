@@ -6,10 +6,12 @@ import "./index.css";
 
 const App = () => {
   const links = [
-    { title: "Medium", url: "https://medium.com/@dharunnirai" },
+    
+    { title: "LinkedIn", url: "https://www.linkedin.com/in/dharunpranavsk/" },
     { title: "Instagram", url: "https://www.instagram.com/dharun_pranav/" },
     { title: "GitHub", url: "https://github.com/dharunpranavSK/" },
-    { title: "LinkedIn", url: "https://www.linkedin.com/in/dharunpranavsk/" },
+    { title: "Medium", url: "https://medium.com/@dharunnirai" },
+    { title: "Resume", url: "https://dharunpranavsk.github.io/dharunpranav-resume/" },
   ];
 
   return (
